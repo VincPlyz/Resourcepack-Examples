@@ -1,0 +1,35 @@
+*************************************************
+*                                               *
+*       Resourcepack Item Model Examples        *
+*                                               *
+*************************************************
+
+This Resourcepack contains examples for various conditions of the new item model definition.
+
+Inside the `commands.txt`, you will find all commands with their descriptions.
+
+-------------------------------------------------
+
+[custom_data condition]
+
+This condition checks if the component `custom_data` exists on your item (unfortunately, we don't have a way to test for component values yet).
+
+-------------------------------------------------
+
+[selected condition]
+
+This condition checks if your item is selected in the hotbar.
+
+-------------------------------------------------
+
+[keybind_down condition]
+
+This condition checks if the player presses or holds down a key. `key.jump` is used in this example, so the item model changes if the player presses their jump key.
+
+-------------------------------------------------
+
+[Count condition]
+
+This condition checks if the item exceeds a specified count, in this example, 5 and 10.
+
+-------------------------------------------------

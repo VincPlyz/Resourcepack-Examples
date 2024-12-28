@@ -1,0 +1,23 @@
+==========================
+    Custom Data Condition
+==========================
+
+/give @s stick[item_model="namespace:cd_stick",custom_data={"custom_data":1b}]
+
+==========================
+    Selected Condition
+==========================
+
+/give @s stick[item_model="namespace:s_stick"]
+
+==========================
+    Keybind Down Condition
+==========================
+
+/give @s stick[item_model="namespace:kb_stick"]
+
+==========================
+    Count Condition
+==========================
+
+2x -> /give @s stick[item_model="namespace:c_stick"] 5
