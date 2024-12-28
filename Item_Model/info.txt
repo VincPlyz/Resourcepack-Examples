@@ -6,7 +6,7 @@
 
 This Resourcepack contains examples for various conditions of the new item model definition.
 
-Inside the `commands.txt`, you will find all commands with their descriptions.
+Inside the `commands.txt` you will find all the commands corresponding to there descriptions in here.
 
 -------------------------------------------------
 
