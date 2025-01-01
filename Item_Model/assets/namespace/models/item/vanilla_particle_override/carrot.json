@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/carrot",
+  "textures": {
+    "particle": "namespace:item/carrot/particle"
+  }
+}
