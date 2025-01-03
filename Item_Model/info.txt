@@ -33,3 +33,7 @@ This condition checks if the player presses or holds down a key. `key.jump` is u
 This condition checks if the item exceeds a specified count, in this example, 5 and 10.
 
 -------------------------------------------------
+
+[range_dispatch condition]
+
+This Checks for a number of ranges in this example for "use_duration" wich for example can be used for Eating Animations
