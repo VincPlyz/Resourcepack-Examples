@@ -21,3 +21,9 @@
 ==========================
 
 2x -> /give @s stick[item_model="namespace:c_stick"] 5
+
+==========================
+    Range Condition
+==========================
+
+/give @s carrot[item_model="namespacew:e_carrot"] 
