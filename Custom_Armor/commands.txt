@@ -1,11 +1,23 @@
-Helmet:
+==========================
+         Helmet
+==========================
+
 /give @p stick[equippable={slot:"head",asset_id:"custom_armor"},custom_name='{"text":"Custom Helmet","italic":false}']
 
-Chestplate:
+==========================
+       Chestplate
+==========================
+
 /give @p stick[equippable={slot:"chest",asset_id:"custom_armor"},custom_name='{"text":"Custom Chestplate","italic":false}']
 
-Leggings: 
+==========================
+        Leggings
+==========================
+ 
 /give @p stick[equippable={slot:"legs",asset_id:"custom_armor"},custom_name='{"text":"Custom Leggings","italic":false}']
 
-Boots: 
+==========================
+        Boots
+==========================
+
 /give @p stick[equippable={slot:"feet",asset_id:"custom_armor"},custom_name='{"text":"Custom Boots","italic":false}']
