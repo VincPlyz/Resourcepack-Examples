@@ -9,4 +9,4 @@ This Resourcepack contains an example for a Custom Painting
 Inside the `commands.txt`, you will find the commands for the Painting or you can also just search for "Custom Painting"
 
 
-[! this Resource Pack requires the Datapack to work !]
+[! this Resource Pack requires the included Datapack to work !]
