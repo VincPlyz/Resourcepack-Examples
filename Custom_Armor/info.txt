@@ -1,0 +1,9 @@
+*************************************************
+*                                               *
+*       Resourcepack Custom Armor Example       *
+*                                               *
+*************************************************
+
+This Resourcepack contains an example for Custom Armor
+
+Inside the `commands.txt`, you will find the commands for the armor

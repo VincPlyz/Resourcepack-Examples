@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:custom_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:custom_armor"
+      }
+    ]
+  }
+}
