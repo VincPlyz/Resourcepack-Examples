@@ -1,0 +1,12 @@
+*************************************************
+*                                               *
+*     Resourcepack Custom Painting Example      *
+*                                               *
+*************************************************
+
+This Resourcepack contains an example for Custom Painting
+
+Inside the `commands.txt`, you will find the commands for the Painting or you can also just search for "Custom Painting"
+
+
+[! this Resource Pack requires the Datapack to work !]

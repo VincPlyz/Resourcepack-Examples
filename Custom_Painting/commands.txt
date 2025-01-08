@@ -1,0 +1,5 @@
+==========================
+     Custom Painting
+==========================
+
+/give @s minecraft:painting[entity_data={id:"minecraft:painting",variant:"namespace:custom_painting"}]
