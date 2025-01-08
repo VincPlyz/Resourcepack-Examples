@@ -1,0 +1,14 @@
+==========================
+    Custom Goat Horn 
+[Vanilla - without Datapack]
+==========================
+
+/give @p goat_horn[instrument={use_duration:0.1,range:100,sound_event:"block.amethyst_block.break",description:"Custom Goathorn"}] 1
+
+==========================
+    Custom Goat Horn
+[Custom - with Datapack] 
+==========================
+
+/give @s minecraft:goat_horn[instrument="namespace:custom_1"]
+

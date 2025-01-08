@@ -1,0 +1,7 @@
+{
+	"sound.custom.custom_1":{
+		"sounds": [
+           "namespace:custom/custom_1"
+		]
+    }
+}
