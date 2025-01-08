@@ -4,7 +4,7 @@
 *                                               *
 *************************************************
 
-This Resourcepack contains an example for Custom Painting
+This Resourcepack contains an example for a Custom Painting
 
 Inside the `commands.txt`, you will find the commands for the Painting or you can also just search for "Custom Painting"
 
