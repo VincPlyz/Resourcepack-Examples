@@ -7,3 +7,5 @@
 This Resourcepack contains an example for Custom Goat Horn sounds
 
 Inside the `commands.txt`, you will find the commands for the Goat Horn
+
+[! Parts of this Resource Pack require the Datapack to work properly !]
