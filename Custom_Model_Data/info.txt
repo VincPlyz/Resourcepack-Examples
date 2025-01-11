@@ -1,0 +1,14 @@
+*************************************************
+*                                               *
+*    Resourcepack Custom Model Data Examples    *
+*        (pls just use item_model lol)          *
+*                                               *
+*************************************************
+
+This Resourcepack contains examples for Custom Model Data
+
+Inside the `commands.txt`, you will find all commands for this Example
+
+-------------------------------------------------
+
+

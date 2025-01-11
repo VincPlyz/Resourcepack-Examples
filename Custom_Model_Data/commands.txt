@@ -1,0 +1,9 @@
+===========================
+Custom Model Data Examples
+===========================
+
+/give @s minecraft:carrot_on_a_stick[custom_model_data={strings:["1"]}]
+
+/give @s minecraft:carrot_on_a_stick[custom_model_data={strings:["2"]}]
+
+/give @s minecraft:carrot_on_a_stick[custom_model_data={strings:["3"]}]
