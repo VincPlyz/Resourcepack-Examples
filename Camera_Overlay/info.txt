@@ -1,0 +1,11 @@
+*************************************************
+*                                               *
+*     Resourcepack Camera Overlay Examples      *
+*                                               *
+*************************************************
+
+This Resourcepack contains examples for Camera Overlay
+
+Inside the `commands.txt`, you will find the give commands.
+
+--------------------

@@ -1,0 +1,19 @@
+==========================
+      Pumpkin Blur
+==========================
+
+/give @s stick[minecraft:equippable={slot:"mainhand",camera_overlay:"namespace:overlay/pumpkinblur"}]
+
+==========================
+   Powder Snow Outline
+==========================
+
+/give @s stick[minecraft:equippable={slot:"mainhand",camera_overlay:"namespace:overlay/powder_snow_outline"}]
+
+==========================
+Custom HUD Example 1 and 2
+==========================
+
+/give @s stick[minecraft:equippable={slot:"mainhand",camera_overlay:"namespace:overlay/custom_hud_1"}]
+
+/give @s stick[minecraft:equippable={slot:"mainhand",camera_overlay:"namespace:overlay/custom_hud_2"}]
